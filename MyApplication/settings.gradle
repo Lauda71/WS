@@ -1,0 +1,4 @@
+include ':project21'
+include ':contextmenu'
+include ':app'
+rootProject.name = "My Application"
