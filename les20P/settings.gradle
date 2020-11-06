@@ -1,0 +1,4 @@
+include ':fonts'
+include ':newmod'
+include ':app'
+rootProject.name = "les20P"

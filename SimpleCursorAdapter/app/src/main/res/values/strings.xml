@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SimpleCursorAdapter</string>
+    <string name="box">Корзина</string>
+</resources>
